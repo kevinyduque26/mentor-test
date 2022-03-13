@@ -1,5 +1,5 @@
-function add (a) {
-    return a + 1;
+function add(a, b) {
+  return a + b;
 };
 
-console.log(add(5));
+console.log(add(5, 1));
